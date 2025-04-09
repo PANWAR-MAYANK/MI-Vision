@@ -1,4 +1,4 @@
-# 💓 Heart Disease Prediction Using ECG Data
+# 💓 Classification of Myocardial Infarction Using ECG images 
 
 A Machine Learning project that classifies ECG signals to detect heart conditions like Myocardial Infarction (MI), Previous MI, and more using dimensionality-reduced ECG data from 12 leads. This pipeline leverages various classification algorithms and an ensemble (Voting Classifier) to achieve high accuracy.
 
